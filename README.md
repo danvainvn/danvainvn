@@ -1,5 +1,5 @@
 Tên tuổi.  
-Chuyên môn, bằng cấp và lĩnh vực hoạt động.  
+$Chuyên môn^2$, $bằng cấp^1$ và lĩnh vực hoạt động.  
 Kinh nghiệm làm việc.  
 Mục tiêu nghề nghiệp dài hạn và ngắn hạn.  
 Các kỹ năng liên quan đến vị trí đang ứng tuyển.  
