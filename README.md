@@ -1,4 +1,4 @@
-<img width="900" src="pictures\Gruvbox_banner.png"/>
+<img width="600" align="center" src="pictures\Gruvbox_banner.png" />
 
 # <img src="pictures\icons8-workspace-48.png"/> About Me
 ### My name is Duong Quang Vinh.
@@ -12,7 +12,7 @@
    </span> 
   </summary>
   
-  ### The first time touched a PC
+  ### First time touched a PC
   Null
 </details>
   
@@ -33,7 +33,7 @@ Mục tiêu nghề nghiệp dài hạn và ngắn hạn.
 Các giải thưởng từng đạt được.  
 ```   
 
-# <img src="pictures\icons8-favorite-window-48.png"/> My Repositories
+# <img src="pictures\icons8-favorite-window-48.png)"/> My Repositories
 Null
 
 
