@@ -12,7 +12,7 @@
    </span> 
   </summary>
   
-  ### First time touched a PC
+  ### The first time touched a PC
   Null
 </details>
   
@@ -25,8 +25,8 @@ Kinh nghiệm làm việc.
 ```
 
 # ![](pictures\icons8-education-folder-48.png) My Progresses
-<img height=189 align="left" src="https://github-readme-stats.vercel.app/api?username=danvainvn&show_icons=true&theme=gruvbox&hide_border=true&border_radius=4.5&hide=commits,issues" />
-<img height=189 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=gruvbox&layout=compact&langs_count=6&hide_border=true&border_radius=4.5&card_width=320" />
+<img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=danvainvn&show_icons=true&theme=gruvbox&hide_border=true&border_radius=4.5&hide=commits,issues" />
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=gruvbox&layout=compact&langs_count=6&hide_border=true&border_radius=4.5&card_width=320" />
 
 ```
 Mục tiêu nghề nghiệp dài hạn và ngắn hạn.  
