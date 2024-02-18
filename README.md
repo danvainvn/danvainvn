@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&border_radius=9&logo=linux-mint&logoColor=white"/> 
 
 ### Programming Language  
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 ```
 Chuyên môn, bằng cấp và lĩnh vực hoạt động.  
