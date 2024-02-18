@@ -14,7 +14,7 @@
   
 # <img src="pictures\icons8-programming-48.png"/> My Experience
 ### Operating System  
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&border_radius=9&logo=linux-mint&logoColor=white"/> 
 
 ### Programming Language  
 
