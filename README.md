@@ -7,5 +7,5 @@ Tóm tắt quá trình làm việc ở đơn vị cũ.
 Các giải thưởng từng đạt được.  
 Địa chỉ liên lạc gồm số điện thoại, email cá nhân, địa chỉ nơi ở.  
 
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=162 align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=162 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
