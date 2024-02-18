@@ -1,4 +1,4 @@
-<div style="text-align: center"><img src="pictures\Gruvbox_banner.png" width="450" /></div>
+<img src="pictures\Gruvbox_banner.png"/>
 
 # <img src="pictures\icons8-workspace-48.png"/> About Me
 ### My name is Duong Quang Vinh.
