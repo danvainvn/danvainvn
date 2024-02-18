@@ -29,7 +29,7 @@ Mục tiêu nghề nghiệp dài hạn và ngắn hạn.
 Các giải thưởng từng đạt được.  
 ```   
 
-# <img src="pictures\icons8-favorite-window-48.png)"/> My Repositories
+# <img src="pictures\icons8-favorite-window-48.png"/> My Repositories
 Null
 
 
