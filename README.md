@@ -13,8 +13,11 @@
 </details>
   
 # <img src="pictures\icons8-programming-48.png"/> My Experience
-### OS:  
-### Languages:  
+### Operating System  
+<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
+
+### Programming Language  
+
 ```
 Chuyên môn, bằng cấp và lĩnh vực hoạt động.  
 Kinh nghiệm làm việc.  
