@@ -1,4 +1,4 @@
-<img width="400" align="right" src="pictures\Gruvbox_banner.png"/>
+<img width="500" align="right" src="pictures\Gruvbox_banner.png"/>
 
 # <img src="pictures\icons8-workspace-48.png"/> About Me
 ### My name is Duong Quang Vinh.
@@ -6,11 +6,7 @@
 
 <details>
   
-  <summary>
-   <span style="color:#458588">
-   My coding journey
-   </span> 
-  </summary>
+  <summary> Expand </summary>
   
   ### The first time touched a PC
   Null
