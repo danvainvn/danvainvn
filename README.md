@@ -26,7 +26,7 @@ Kinh nghiệm làm việc.
 
 # <img src="pictures\icons8-education-folder-48.png"/> My Progresses
 <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=danvainvn&show_icons=true&theme=gruvbox&hide_border=true&title_color=fbf1c7&text_color=458588&icon_color=d79921&border_radius=4.5&hide=commits,issues" />
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=gruvbox&layout=compact&langs_count=6&hide_border=true&title_color=fbf1c7&text_color=458588&icon_color=d79921&border_radius=4.5&card_width=320" />
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=gruvbox&layout=compact&langs_count=4&hide_border=true&title_color=fbf1c7&text_color=458588&icon_color=d79921&border_radius=4.5&card_width=320" />
 
 ```
 Mục tiêu nghề nghiệp dài hạn và ngắn hạn.  
