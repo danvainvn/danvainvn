@@ -2,7 +2,7 @@
 
 # <img src="pictures\icons8-workspace-48.png"/> About Me
 ### 👋 there, my name is Dương Quang Vinh (you can call me "Danvain" if you can't pronounce my name).
- I'm a Vietnamese student, currently learning at [FPT Polytechnic school](https://www.britishcouncil.vn/sites/default/files/btlh-day_2-parallel_workshop-triple_helix-vu_chi_thanh_en.pdf). As you can see, I'm here to learn coding with the help of open-source and I like to code so I joined Github. I believe one day I will be better at coding and contribute my efforts to open-source.  
+ I'm a Vietnamese student, currently learning at [FPT Polytechnic school](https://www.britishcouncil.vn/sites/default/files/btlh-day_2-parallel_workshop-triple_helix-vu_chi_thanh_en.pdf). As you can see, I'm here to learn coding with the help of open-source and I like to code so I joined Github. I believe one day I will be better at coding and contribute my efforts to open-source. Hope you guys can help me with my self-improvement journey.
 
 <details>
   
