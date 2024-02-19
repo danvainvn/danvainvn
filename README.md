@@ -1,22 +1,22 @@
 <img src="pictures\Gruvbox_banner.png"/>
 
 # <img src="pictures\icons8-workspace-48.png"/> About Me
-### My name is Duong Quang Vinh.
- I'm a Vietnamese student, part of [FPT Education](https://fschool.fpt.edu.vn/en/introduction/fpt-education/) Polytechnic.
+### 👋 there, my name is Dương Quang Vinh (you can call me "Danvain" if you can't pronounce my name).
+ I'm a Vietnamese student, currently learning at [FPT Polytechnic school](https://www.britishcouncil.vn/sites/default/files/btlh-day_2-parallel_workshop-triple_helix-vu_chi_thanh_en.pdf). As you can see, I'm here to learn coding with the help of open-source and I like to code so I joined Github. I believe one day I will be better at coding and contribute my efforts to open-source.  
 
 <details>
   
-  <summary> Expand </summary>
+  <summary> My little story </summary>
   
   ### The first time touched a PC
   Null
 </details>
   
-# <img src="pictures\icons8-programming-48.png"/> My Experience
-### Operating System  
+# <img src="pictures\icons8-programming-48.png"/> My Experiences
+### Operating Systems  
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&border_radius=9&logo=linux-mint&logoColor=white"/> 
 
-### Programming Language  
+### Programming Languages  
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 ```
